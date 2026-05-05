@@ -7,16 +7,16 @@
 <h2 align="center">Hi there 👋, I'm Ahmed</h2>
 
 <p align="center">
-Aspiring <b>Data Engineer</b> focused on building real-world data pipelines, data warehouses, and analytical dashboards.
+ <b>Data Engineer</b> focused on building real-world data pipelines, data warehouses, and analytical dashboards.
 </p>
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/ahmed-bassiouny-8966a3184/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ahmedmahmoud.bsy@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
