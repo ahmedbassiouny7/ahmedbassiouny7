@@ -116,11 +116,7 @@ Analytics project focused on telecom cell KPIs, RAN data, and network performanc
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ahmedbassiouny7&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbassiouny7&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedbassiouny7&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </div>
 
