@@ -1,13 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ahmed%20Bassiouny&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Engineer%20%7C%20Python%20%7C%20SQL%20%7C%20Airflow%20%7C%20Power%20BI&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Ahmed%20Bassiouny&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20Python%20%7C%20SQL%20%7C%20Airflow%20%7C%20Power%20BI&descAlignY=58&descSize=18" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Data+Engineer;Building+End-to-End+Data+Pipelines;Turning+Raw+Data+Into+Business+Insights;Python+%7C+SQL+%7C+Airflow+%7C+Power+BI" />
 
 </div>
 
-<h2 align="center">Hi there 👋, I'm Ahmed</h2>
+---
+
+<h2 align="center">👋 Hi, I'm Ahmed Bassiouny</h2>
 
 <p align="center">
- <b>Data Engineer</b> focused on building real-world data pipelines, data warehouses, and analytical dashboards.
+<b>Data Engineer</b> focused on building real-world data pipelines, data warehouses, and analytical dashboards.
 </p>
 
 <div align="center">
@@ -20,17 +24,24 @@
 <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<img src="https://komarev.com/ghpvc/?username=ahmedbassiouny7&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m building projects in **Data Engineering and Business Intelligence**
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+- 🔭 I’m building projects in **Data Engineering & Business Intelligence**
 - 🧱 I work with **Python, SQL, Airflow, Docker, PostgreSQL, and Power BI**
-- 📊 I enjoy turning messy raw data into clean analytical datasets
+- 📊 I turn messy raw data into clean analytical datasets
 - 🚀 Currently learning **Databricks, Microsoft Fabric, and Advanced SQL**
-- 🎯 Goal: become a strong **Junior Data Engineer**
+- 🧠 Interested in **ETL, Data Warehousing, Lakehouse, and Analytics Engineering**
+- 🎯 Goal: build production-style data systems that solve real business problems
+
+<br clear="right"/>
 
 ---
 
@@ -91,7 +102,7 @@ Data warehouse project using ETL, dimensional modeling, and BI reporting.
 
 ### 📡 Telecom KPI Analytics
 
-Learning-focused project about telecom cell KPIs, RAN data, and network performance analytics.
+Analytics project focused on telecom cell KPIs, RAN data, and network performance.
 
 **Focus:** KPIs, RAN, Batch Data, Dashboarding
 
@@ -101,9 +112,24 @@ Learning-focused project about telecom cell KPIs, RAN data, and network performa
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedbassiouny7&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbassiouny7&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
 ## 📌 Focus Areas
 
 ```text
-Data Engineering   | ETL Pipelines   | Data Warehousing
-SQL & Python       | Airflow DAGs     | Power BI Dashboards
-Data Cleaning      | Docker           | Business Analytics
+Data Engineering      ETL Pipelines        Data Warehousing
+SQL & Python          Airflow DAGs         Power BI Dashboards
+Data Cleaning         Docker               Business Analytics
+Lakehouse Concepts    Databricks           Microsoft Fabric
