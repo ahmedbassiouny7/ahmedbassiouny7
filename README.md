@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Ahmed Bassiouny 👋
 
-<!--
-**ahmedbassiouny7/ahmedbassiouny7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Engineer focused on building real-world data pipelines and analytical systems.
 
-Here are some ideas to get you started:
+I work with Python, SQL, Airflow, Docker, Databricks, and Power BI to transform raw data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+
+- Build end-to-end data pipelines (scraping → storage → transformation → BI)
+- Work with batch data workflows using Airflow
+- Design data warehouse models and clean datasets
+- Create dashboards that answer real business questions
+
+---
+
+## 🔥 Featured Projects
+
+### 🚗 Used Cars Egypt Data Pipeline
+End-to-end pipeline using Airflow, Selenium, PostgreSQL, and Power BI.
+
+### 🛒 Retail Analytics Platform
+Lakehouse-style data platform using modern data engineering tools.
+
+### 📚 Bookstore Data Warehouse
+SQL Server data warehouse with SSIS, SSAS, and Power BI.
+
+---
+
+## 🛠️ Skills
+
+**Languages:** Python, SQL  
+**Data Engineering:** ETL, Data Pipelines, Data Warehousing  
+**Tools:** Airflow, Docker, PostgreSQL, Databricks, Microsoft Fabric  
+**BI:** Power BI, Data Modeling, KPIs  
+
+---
+
+## 📫 Connect with me
+
+- LinkedIn: (حط اللينك هنا)
+- Email: (حط ايميلك هنا)
