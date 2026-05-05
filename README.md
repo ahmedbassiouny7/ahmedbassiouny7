@@ -32,7 +32,7 @@ Data Engineer focused on building real-world data pipelines, data warehouses, an
 
 ## 👨‍💻 About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🔭 I build projects in **Data Engineering** and **Business Intelligence**
 - 🧱 I work with **Python, SQL, Airflow, Docker, PostgreSQL, SQL Server, and Power BI**
