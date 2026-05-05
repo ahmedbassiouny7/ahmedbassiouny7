@@ -39,5 +39,5 @@ SQL Server data warehouse with SSIS, SSAS, and Power BI.
 
 ## 📫 Connect with me
 
-- LinkedIn: (حط اللينك هنا)
-- Email: (حط ايميلك هنا)
+- LinkedIn: (https://www.linkedin.com/in/ahmed-bassiouny-8966a3184/)
+- Email: (ahmedmahmoud.bsy@gmail.com)
